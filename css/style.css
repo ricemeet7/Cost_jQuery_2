@@ -1,0 +1,24 @@
+*{
+  box-sizing: border-box;
+}
+section{
+  max-width: 940px;
+  margin: 30px auto 0;
+}
+.top_img{
+  width: 100%;
+  height: auto;
+}
+.sub_img{
+  width: 100%;
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+.img{
+  width: 100%;
+}
+img{
+  width: 100%;
+}
